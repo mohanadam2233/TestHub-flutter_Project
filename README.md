@@ -6,8 +6,9 @@ This bundle contains:
 
 ## Screenshots
 
-![desing 1](assets/images/desing1.jpeg)
-![dising 2](assets/images/desing2.jpeg)
+![design 1](frontend/assets/images/desing1.jpeg)
+![design 2](frontend/assets/images/desing2.jpeg)
+
 
 
 ## 1) Backend setup (MongoDB)
